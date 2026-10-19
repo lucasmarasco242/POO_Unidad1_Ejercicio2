@@ -35,5 +35,5 @@ La ejecución del programa muestra en la consola los datos correspondientes a ca
 * el nombre de la mascota 3 es juan su especie es caballo y su edad es 15
 
 ## Captura de pantalla
+<img width="1680" height="266" alt="EJercicio 2" src="https://github.com/user-attachments/assets/5d8d6980-e832-4246-a8e5-8b9afff03129" />
 
-![Captura de pantalla de la ejecución](img/captura-ejecucion.png)
